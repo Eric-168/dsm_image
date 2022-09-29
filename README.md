@@ -1,2 +1,2 @@
 # dsm_image
-群晖引导
+dsm boot image
